@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When is open source harmful
+image: /img/bart-simpson-generator.gif
 categories: SeniorSeminar
 ---
 
