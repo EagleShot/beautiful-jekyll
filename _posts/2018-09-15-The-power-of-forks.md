@@ -2,7 +2,7 @@
 layout: post
 title: The power of forks
 image: /img/forking.gif
-categories: SeniorSeminar
+categories: Senior_Seminar
 ---
 We all love fork (cutlery), but I am talking about a programming fork especially version control forks. [GitHub](https://help.github.com/articles/fork-a-repo/) defines beautifully. It enables a user to experiment with a code base while leaving the original codebase intact but this has special implications for FOSS projects.
 It allows contributors with different visions to create several versions of the code base and nurture the project as they see fit. Thus, people who might otherwise have had left the project or have had to reinvent the wheel can now continue development, and the FOSS community wins as a result.

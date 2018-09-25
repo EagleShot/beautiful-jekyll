@@ -19,14 +19,6 @@ title: Ashir Borah
 # Short description of your site
 description: Undergrad @ Dickinson
 
-# Collections
-collections:
-  - seniorSem:
-        output: true
-        permalink: /seniorSem/:path/
-  - bioinformatics:
-        output: true
-        permalink: /bioinformatics/:path/
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -185,6 +177,16 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - vendor
+  
+collections:
+    Bioinformatics:
+        output: true
+        permalink: /Bioinformatics/:path/
+        
+    Senior_Seminar:
+        output: true
+        permalink: /Senior_Seminar/:path/
 
 # prose.io config
 prose:
