@@ -1,0 +1,10 @@
+---
+layout: post
+title: Ethical Issues with Autonomous Vehicles
+categories: Senior_Seminar
+---
+The autonomous vehicles idea has as many ethical challenges as technical challenges. In these scenarios, even if one assumes as algorithmically perfect car which never misses a squirrel or incorrectly identifies a tree as a person, some situations are impossible to solve. Let’s discuss one of them in particular. In this thought experiment, you and your family are waiting in your autonomous vehicle at a stop sign, and a group of kids is crossing in front of you. Your AV notices a speeding truck which will not stop in time. It calculates that if it blocks the truck, the harm to the kids can be prevented by your car will be destroyed. There are three people in the vehicle but ten kids on the street. What does the car do? Does it get out of the way and save your family or does it protect the kids? I don’t think there is a right answer to this situation. The given condition is an example of a [no-win situation](https://en.wikipedia.org/wiki/No-win_situation)
+
+Thus, I want to relate this situation to the anti-vaxxer movement. If an individual knows that their AV might evaluate that it is not worth saving the lives of the people in the car compared to the other alternatives, I find it hard to believe that they will buy such a vehicle. If other people on the street have AVs but the given individual has a manual car, their get the benefit of decreased accidents because the other vehicles will be perfect but in the rare occasion where there might be an accident, this individual can act to preserve their own life with disregard to the damage it might cause. This leads to a suboptimal societal outcome but the optimal result for the owner of the manual car.
+
+I also believe that it will take much time for the widespread adoption of AVs because of the illusion of choice. It is a compelling psychological tool. Deterministic algorithms take that illusion away from people and thus knowing that they might get into an accident or die because of an algorithm because it was an impossible situation would be hard to convince to the general public.
